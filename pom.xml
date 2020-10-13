@@ -363,7 +363,7 @@
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
             <!-- There are newer versions of the JUnit but they break our tests -->
-            <version>4.11</version>
+            <version>4.13.1</version>
          </dependency>
          <!--needed to compile the jms tests -->
          <dependency>
